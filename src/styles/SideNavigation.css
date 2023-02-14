@@ -1,0 +1,14 @@
+.addLogo {
+	background-image: url("../assets/add.png");
+	@apply bg-cover bg-center;
+}
+
+.totalLogo {
+	background-image: url("../assets/total.png");
+	@apply bg-cover bg-center;
+}
+
+.successLogo {
+	background-image: url("../assets/success.png");
+	@apply bg-cover bg-center;
+}

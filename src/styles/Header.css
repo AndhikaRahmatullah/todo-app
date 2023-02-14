@@ -1,0 +1,9 @@
+.headerLogo {
+	background-image: url("../assets/logo.png");
+	@apply bg-cover bg-center;
+}
+
+.filterLogo {
+	background-image: url("../assets/filter.png");
+	@apply bg-cover bg-center;
+}
